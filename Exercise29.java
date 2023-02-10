@@ -6,7 +6,7 @@ public class Exercise29{
         int bath = input.nextInt();
         double dollar = 35.0;
         double money =  bath / dollar;
-        System.out.print("You have money  "+money+ " dollar");
+        System.out.print("คุณมีเงิน "+money+ " dollar");
         
  
  
